@@ -8,6 +8,9 @@ Copy the string directory to your addons/SITE_REF/widgets or addons/shared_addon
 
 ## Usage
 
+Go into the widgets section in your PyroCMS admin section. Drag the string widget into the widget area of your choice. Give it a title, and fill in the string.
+
+Now place the widget into the page or theme where you'd like it to show up.
 
 ```javascript
 {{ widgets:area slug="string-widget" }}
